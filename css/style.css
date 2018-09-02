@@ -1,0 +1,140 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+  padding:0;
+}
+
+h1.header{
+  color:#009639;
+  font-size:50px;
+  margin-bottom:50px;
+  margin-top:50px;
+}
+
+h1#Kenmar{
+  margin-bottom:100px;
+  font-size:50px;
+  color:#009639;
+}
+
+h1#lorem{
+  margin-left:100px;
+  margin-right:20px;
+  color:#009639;
+  font-weight:400;
+  font-size:30px;
+}
+
+table tr td{
+  text-align:center;
+}
+
+div.hero-image{
+  background-image:url("../images/more-trees.jpeg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  width:100%;
+  height:800px;
+  position:fixed;
+}
+
+div.body-content{
+  background-color:#fff;
+  width:100%;
+  position:absolute;
+  text-align:center;
+}
+
+div.body-content1{
+  height:1000px;
+  background-color:#fff;
+  width:100%;
+  position:absolute;
+  text-align:center;
+}
+
+div.discovery{
+  text-align:center;
+  margin-top:50px;
+}
+
+div.tables{
+  text-align:center;
+}
+
+img#trees{
+  margin-top:400px;
+  width:100%;
+  position:relative;
+}
+
+img#logo{
+  height:75px;
+  width:200px;
+}
+
+img#arial{
+  margin-left:20%;
+}
+
+img#kiln{
+  height:400px;
+  width:400px;
+}
+
+img#worker{
+  height:400px;
+  width:400px;
+  margin-left:100px;
+}
+
+img#truck{
+  height:400px;
+  width:400px;
+}
+
+menu{
+  position:relative;
+  border-bottom:2px solid #293823;
+  width:100%;
+  height:130px;
+}
+
+ul{
+  font-family:sans-serif;
+  position:relative;
+}
+
+ ul li{
+   margin-right:10px;
+   margin-top:50px;
+   list-style:none;
+   display:inline-block;
+   position:relative;
+ }
+
+ ul li:first-of-type{
+   margin:0;
+   margin-right:20px;
+   padding:0;
+   padding-top:20px;
+ }
+
+ ul li a{
+   font-size:25px;
+   margin-right:20px;
+   border-radius:10px;
+   text-decoration:none;
+   color:#293823;
+   font-weight:bold;
+ }
+
+ ul li a:hover{
+   color:#D2691E;
+ }
+
+ a#discovery{
+   color:#009639;
+   text-decoration:none;
+   cursor:pointer;
+ }
